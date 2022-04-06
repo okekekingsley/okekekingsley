@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okekekingsley
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I currently just earned my cerificate as a data analyst from google
 - 💞️ I’m looking to collaborate on every thin concerning Data Analytics
 - 📫 How to reach me kingsleyokeke987@gmail.com
 
